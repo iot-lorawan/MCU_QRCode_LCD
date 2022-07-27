@@ -1,4 +1,4 @@
-# MCUQRCodeLCD
+# MCU_QRCode_LCD
  Ink-Display with QRCode in MCU
  
  二维码动态生成使用如下，可在mcu级别上使用
